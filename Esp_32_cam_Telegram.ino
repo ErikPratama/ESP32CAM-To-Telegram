@@ -1,10 +1,5 @@
-/*
-* esp 32cam with Pir and Telegram
-* Erik Pratama
-* ig:erkkprrtamaa
-*/
 
-//輸入Wi-Fi帳密
+
 const char* ssid     = "";   
 const char* password = "";  
 
