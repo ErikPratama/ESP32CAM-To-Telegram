@@ -1,8 +1,5 @@
-
-
 const char* ssid     = "";   
 const char* password = "";  
-
 String token = "*****:**********";   // -> https://telegram.me/fatherbot
 String chat_id = "*****";   // -> https://telegram.me/chatid_echo_bot
 int pinPIR = 13;      // pin Sensor PIR
